@@ -1,0 +1,452 @@
+window.__CONFIG = {
+  "business": {
+    "name": "Departamento Ciudad De Santa Rosa",
+    "short_name": "departamento-ciudad-de-santa-rosa",
+    "tagline": "Departamento Ciudad De Santa Rosa - La Pampa",
+    "description": "Departamento Ciudad De Santa Rosa: pileta, parrilla, WiFi y la mejor ubicación en La Pampa.",
+    "category": "Hospedaje",
+    "followers": 0
+  },
+  "hero": {
+    "video": "videos/city-video.mp4",
+    "poster": "fotos/foto-01.webp",
+    "eyebrow": "La Pampa · DEPARTAMENTOS",
+    "title_line1": "Tu base en",
+    "title_em": "departamento-ciudad-de-santa-rosa",
+    "title_line2": "",
+    "subtitle": "Hospedaje cómodo en La Pampa para viajeros como vos."
+  },
+  "location": {
+    "address": "DEPARTAMENTOS, San Juan 356, L6300 Santa Rosa, La Pampa",
+    "district": "La Pampa",
+    "city": "La Pampa",
+    "province": "",
+    "country": "Argentina",
+    "destination_type": "city",
+    "map_query": "DEPARTAMENTOS, San Juan 356, L6300 Santa Rosa, La Pampa, La Pampa",
+    "map_embed": "https://maps.google.com/maps?q=DEPARTAMENTOS%2C+San+Juan+356%2C+L6300+Santa+Rosa%2C+La+Pampa%2C+La+Pampa&t=&z=15&ie=UTF8&iwloc=&output=embed",
+    "description": "La Pampa. Caminando llegás a todos lados.",
+    "video": "videos/city-video.mp4"
+  },
+  "contact": {
+    "whatsapp": "https://wa.me/5492954549135",
+    "phone": "+5492954549135",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.google.com/maps/place/Departamento+Ciudad+De+Santa+Rosa/data=!4m10!3m9!1s0x95c2cda12028b04f:0x8bee4c935736bfa4!5m2!4m1!1i2!8m2!3d-36.612319!4d-64.28672!16s%2Fg%2F11hzxyp2d1!19sChIJT7AoIKHNwpURpL82V5NM7os?authuser=0&hl=es&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+    "place_url": "https://www.google.com/maps/place/Departamento+Ciudad+De+Santa+Rosa/data=!4m10!3m9!1s0x95c2cda12028b04f:0x8bee4c935736bfa4!5m2!4m1!1i2!8m2!3d-36.612319!4d-64.28672!16s%2Fg%2F11hzxyp2d1!19sChIJT7AoIKHNwpURpL82V5NM7os?authuser=0&hl=es&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1",
+    "website": "",
+    "facebook": "",
+    "tiktok": ""
+  },
+  "about": {
+    "eyebrow": "Un poco de nosotros",
+    "title": "Así es Departamento Ciudad De Santa Rosa.",
+    "paragraphs": [
+      "En Departamento Ciudad De Santa Rosa vas a encontrar todo lo que necesitás para tu estadía en La Pampa: WiFi gratis, pileta, parrilla, cocina equipada y una ubicación ideal para recorrer la zona. Te esperamos."
+    ],
+    "photos": [
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      }
+    ]
+  },
+  "trust_bar": [
+    "WhatsApp rápido para todo",
+    "Precio real, sin letras chiquitas",
+    "Ya recibimos viajeros de todo el mundo"
+  ],
+  "amenities": [
+    {
+      "key": "bed",
+      "title": "Para dormir bien",
+      "description": "Colchones que hacen que no quieras levantarte.",
+      "icon": "bed"
+    },
+    {
+      "key": "wifi",
+      "title": "WiFi libre",
+      "description": "Sin límite, sin contraseña rara, conectate y listo.",
+      "icon": "wifi"
+    },
+    {
+      "key": "pin",
+      "title": "Zona céntrica",
+      "description": "Restaurantes, bares y todo a pocas cuadras.",
+      "icon": "pin"
+    }
+  ],
+  "testimonials": [
+    {
+      "author": "Tomás V.",
+      "rating": 5,
+      "text": "Ambiente único, te abren la puerta de casa. De las mejores estadías que tuvimos viajando."
+    },
+    {
+      "author": "Martín G.",
+      "rating": 5,
+      "text": "Fuimos con amigos y quedamos encantados. Limpio, cómodo y la onda del lugar espectacular."
+    },
+    {
+      "author": "Carolina R.",
+      "rating": 5,
+      "text": "Súper recomendable. Te sentís como en casa desde el primer momento. Volveremos sin dudas."
+    },
+    {
+      "author": "Valentina P.",
+      "rating": 5,
+      "text": "El lugar es hermoso y está cerca de todo. Los anfitriones nos ayudaron con cada consulta."
+    }
+  ],
+  "testimonials_meta": {
+    "source": "demo"
+  },
+  "gallery": {
+    "images": [
+      {
+        "src": "fotos/foto-01.webp",
+        "alt": "Vista del alojamiento"
+      },
+      {
+        "src": "fotos/foto-02.webp",
+        "alt": "Interior del hostel"
+      },
+      {
+        "src": "fotos/foto-03.webp",
+        "alt": "Espacios comunes"
+      },
+      {
+        "src": "fotos/foto-04.webp",
+        "alt": "Zona de descanso"
+      },
+      {
+        "src": "fotos/foto-05.webp",
+        "alt": "Pileta y jardín"
+      },
+      {
+        "src": "fotos/foto-06.webp",
+        "alt": "Cocina del hostel"
+      },
+      {
+        "src": "fotos/foto-07.webp",
+        "alt": "Habitaciones"
+      },
+      {
+        "src": "fotos/foto-08.webp",
+        "alt": "Terraza"
+      },
+      {
+        "src": "fotos/foto-09.webp",
+        "alt": "Entrada principal"
+      },
+      {
+        "src": "fotos/foto-10.webp",
+        "alt": "Áreas verdes"
+      },
+      {
+        "src": "fotos/foto-11.webp",
+        "alt": "Comedor"
+      },
+      {
+        "src": "fotos/foto-12.webp",
+        "alt": "Living común"
+      }
+    ],
+    "videos": []
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "amount": "Consultar",
+    "period": "SEGÚN TEMPORADA",
+    "title": "Escribinos y te enviamos los precios actualizados según fechas.",
+    "cta_text": "Consultar precios"
+  },
+  "faq": [
+    {
+      "question": "¿Se puede cancelar la reserva?",
+      "answer": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+    },
+    {
+      "question": "¿Hay calefacción?",
+      "answer": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+    },
+    {
+      "question": "¿Hay cocina para usar?",
+      "answer": "Sí, cocina completa para que te armes lo que quieras."
+    },
+    {
+      "question": "¿Hay pileta?",
+      "answer": "Sí, hay pileta. En verano es el mejor lugar para refrescarte."
+    },
+    {
+      "question": "¿Está cerca del centro?",
+      "answer": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+    }
+  ],
+  "footer": {
+    "description": "Departamento Ciudad De Santa Rosa",
+    "copyright": "© 2026 Departamento Ciudad De Santa Rosa. Todos los derechos reservados.",
+    "made_by": "Sitio hecho por Aizly"
+  },
+  "i18n": {
+    "en": {
+      "business": {
+        "name": "Departamento Ciudad De Santa Rosa",
+        "short_name": "departamento-ciudad-de-santa-rosa",
+        "tagline": "Departamento Ciudad De Santa Rosa - Accommodation",
+        "description": "Everything you need to travel easy, at Departamento Ciudad De Santa Rosa.",
+        "category": "Accommodation"
+      },
+      "hero": {
+        "video": "videos/city-video.mp4",
+        "poster": "fotos/foto-01.webp",
+        "eyebrow": "La Pampa · DEPARTAMENTOS",
+        "title_line1": "Find",
+        "title_em": "departamento-ciudad-de-santa-rosa",
+        "title_line2": "in the area",
+        "subtitle": "WiFi, equipped kitchen, terrace and pool. Everything nearby."
+      },
+      "about": {
+        "eyebrow": "Meet the team",
+        "title": "This is Departamento Ciudad De Santa Rosa.",
+        "paragraphs": [
+          "Departamento Ciudad De Santa Rosa is your base in La Pampa. Pool, BBQ, WiFi, kitchen and an ideal location to explore everything. We're a family hostel with all the vibes you need to travel easy."
+        ],
+        "photos": [
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Interior del hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Espacios comunes"
+          }
+        ]
+      },
+      "location": {
+        "description": "La Pampa. Close to restaurants, bars, and everything you need."
+      },
+      "gallery": {
+        "images": [
+          {
+            "src": "fotos/foto-01.webp",
+            "alt": "View of the property"
+          },
+          {
+            "src": "fotos/foto-02.webp",
+            "alt": "Inside the hostel"
+          },
+          {
+            "src": "fotos/foto-03.webp",
+            "alt": "Common areas"
+          },
+          {
+            "src": "fotos/foto-04.webp",
+            "alt": "Relaxation area"
+          },
+          {
+            "src": "fotos/foto-05.webp",
+            "alt": "Pool and garden"
+          },
+          {
+            "src": "fotos/foto-06.webp",
+            "alt": "Hostel kitchen"
+          },
+          {
+            "src": "fotos/foto-07.webp",
+            "alt": "Rooms"
+          },
+          {
+            "src": "fotos/foto-08.webp",
+            "alt": "Terrace"
+          },
+          {
+            "src": "fotos/foto-09.webp",
+            "alt": "Main entrance"
+          },
+          {
+            "src": "fotos/foto-10.webp",
+            "alt": "Green areas"
+          },
+          {
+            "src": "fotos/foto-11.webp",
+            "alt": "Dining room"
+          },
+          {
+            "src": "fotos/foto-12.webp",
+            "alt": "Common lounge"
+          }
+        ]
+      },
+      "pricing": {
+        "eyebrow": "Prices",
+        "amount": "Ask us",
+        "period": "Varies by season",
+        "title": "Message us for updated prices based on your dates.",
+        "cta_text": "Check prices"
+      },
+      "faq": [
+        {
+          "question": "Can I smoke?",
+          "answer": "In outdoor areas, yes. Not inside the building."
+        },
+        {
+          "question": "Is breakfast included?",
+          "answer": "It depends on the season, message us and we'll confirm."
+        },
+        {
+          "question": "What time can I check in and out?",
+          "answer": "We're flexible with times. Drop us a message and we'll work it out."
+        },
+        {
+          "question": "Is there heating?",
+          "answer": "Yes, we keep it warm in winter. Don't worry about the cold."
+        },
+        {
+          "question": "Is it close to downtown?",
+          "answer": "Message us and we'll confirm the exact distance and how to get here from the bus station or airport."
+        }
+      ],
+      "trust_bar": [
+        "Quick answers whenever you need",
+        "No middlemen, no surprises",
+        "We've been travelers too, we get it"
+      ],
+      "amenities": [
+        {
+          "title": "Comfortable rooms",
+          "description": "Everything you need to rest after a day of exploring.",
+          "icon": "bed"
+        },
+        {
+          "title": "Free WiFi",
+          "description": "Internet everywhere on the property.",
+          "icon": "wifi"
+        },
+        {
+          "title": "Great location",
+          "description": "Steps away from everything you need.",
+          "icon": "pin"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Sarah K.",
+          "rating": 5,
+          "text": "Amazing hospitality from the moment we arrived. Great location and such a warm vibe."
+        },
+        {
+          "author": "Laura C.",
+          "rating": 5,
+          "text": "Traveled solo and felt super safe. Met great people and enjoyed every minute."
+        },
+        {
+          "author": "Michael B.",
+          "rating": 4,
+          "text": "Wonderful experience. Comfortable, well located, and attention given with real care."
+        },
+        {
+          "author": "Lucas P.",
+          "rating": 4,
+          "text": "Great value and personalized attention you don't find anywhere else."
+        }
+      ],
+      "footer": {
+        "description": "Departamento Ciudad De Santa Rosa",
+        "copyright": "© 2026 Departamento Ciudad De Santa Rosa. All rights reserved.",
+        "made_by": "Site by Aizly"
+      }
+    }
+  },
+  "schema_ld": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "LodgingBusiness",
+        "name": "Departamento Ciudad De Santa Rosa",
+        "description": "Departamento Ciudad De Santa Rosa ofrece todo lo que necesitás para tu estadía en La Pampa.",
+        "url": "",
+        "telephone": "+5492954549135",
+        "email": "",
+        "image": "",
+        "sameAs": [
+          "https://www.google.com/maps/place/Departamento+Ciudad+De+Santa+Rosa/data=!4m10!3m9!1s0x95c2cda12028b04f:0x8bee4c935736bfa4!5m2!4m1!1i2!8m2!3d-36.612319!4d-64.28672!16s%2Fg%2F11hzxyp2d1!19sChIJT7AoIKHNwpURpL82V5NM7os?authuser=0&hl=es&g_ep=EgoyMDI2MTAxOC4wIJJjKgBIAVAD&rclk=1"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "DEPARTAMENTOS, San Juan 356, L6300 Santa Rosa, La Pampa",
+          "addressLocality": "La Pampa",
+          "addressCountry": "AR"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Para dormir bien",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "WiFi libre",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Zona céntrica",
+            "value": true
+          }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Se puede cancelar la reserva?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Somos flexibles, escribinos con tiempo y lo resolvemos."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay calefacción?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, en invierno estamos bien abrigaditos. No te preocupes por el frío."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay cocina para usar?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, cocina completa para que te armes lo que quieras."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Hay pileta?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí, hay pileta. En verano es el mejor lugar para refrescarte."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Está cerca del centro?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Escribinos y te confirmamos la distancia exacta y cómo llegar desde el terminal o el aeropuerto."
+            }
+          }
+        ]
+      }
+    ]
+  }
+};
