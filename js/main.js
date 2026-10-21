@@ -334,9 +334,6 @@ function render(c) {
     
     // Logo en nav (img)
     const navLogoImg = el('nav-logo').querySelector('img');
-    if (navLogoImg && c.logo) navLogoImg.src = c.logo;
-    // Logo en nav (img)
-    const navLogoImg = el('nav-logo').querySelector('img');
     if (navLogoImg && c.logo) {
         navLogoImg.src = c.logo;
         navLogoImg.style.display = '';
